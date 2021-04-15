@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Top20News/static/css/main.2c41e57f.chunk.css",
-    "main.js": "/Top20News/static/js/main.39c8b8b7.chunk.js",
-    "main.js.map": "/Top20News/static/js/main.39c8b8b7.chunk.js.map",
+    "main.js": "/Top20News/static/js/main.5358984f.chunk.js",
+    "main.js.map": "/Top20News/static/js/main.5358984f.chunk.js.map",
     "runtime-main.js": "/Top20News/static/js/runtime-main.5819234e.js",
     "runtime-main.js.map": "/Top20News/static/js/runtime-main.5819234e.js.map",
-    "static/js/2.9470b845.chunk.js": "/Top20News/static/js/2.9470b845.chunk.js",
-    "static/js/2.9470b845.chunk.js.map": "/Top20News/static/js/2.9470b845.chunk.js.map",
+    "static/js/2.f652e017.chunk.js": "/Top20News/static/js/2.f652e017.chunk.js",
+    "static/js/2.f652e017.chunk.js.map": "/Top20News/static/js/2.f652e017.chunk.js.map",
     "static/js/3.6cd397fb.chunk.js": "/Top20News/static/js/3.6cd397fb.chunk.js",
     "static/js/3.6cd397fb.chunk.js.map": "/Top20News/static/js/3.6cd397fb.chunk.js.map",
     "index.html": "/Top20News/index.html",
     "static/css/main.2c41e57f.chunk.css.map": "/Top20News/static/css/main.2c41e57f.chunk.css.map",
-    "static/js/2.9470b845.chunk.js.LICENSE.txt": "/Top20News/static/js/2.9470b845.chunk.js.LICENSE.txt"
+    "static/js/2.f652e017.chunk.js.LICENSE.txt": "/Top20News/static/js/2.f652e017.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5819234e.js",
-    "static/js/2.9470b845.chunk.js",
+    "static/js/2.f652e017.chunk.js",
     "static/css/main.2c41e57f.chunk.css",
-    "static/js/main.39c8b8b7.chunk.js"
+    "static/js/main.5358984f.chunk.js"
   ]
 }
